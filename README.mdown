@@ -1,0 +1,8 @@
+Animal Crossing Summer
+====
+
+A Google Chrome theme inspired by Animal Crossing.
+
+## Screenshot
+
+![Alt Text](https://tsuyuno.github.io/resources/animal-crossing-summer.png)
